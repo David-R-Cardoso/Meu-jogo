@@ -7,11 +7,7 @@ var obg;
 var tmp;
 var frame;
 
-
 window.addEventListener("load", inicia);
-
-const per = animar();
-
 
 function animar() {
     const per = document.querySelector('.img1');
